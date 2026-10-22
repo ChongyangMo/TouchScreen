@@ -1,4 +1,4 @@
-# touchscreen
+# TouchScreen
 
 ESP32-S3 驱动淘晶驰串口屏 TJC3224T120_011R（主控 AIHMI C2，320×240 电阻触摸），做成电脑性能监视器。不需要 USART HMI，也不改屏里原有的工程。
 
